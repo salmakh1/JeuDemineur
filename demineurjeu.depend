@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1525078614 source:c:\users\salma\desktop\salma\demineurjeu\main.cpp
+	<iostream>
+	"plateau.h"
+
+1524475544 source:c:\users\salma\desktop\salma\demineurjeu\src\case.cpp
+	"Case.h"
+
+1524475604 c:\users\salma\desktop\salma\demineurjeu\include\case.h
+	<bits/stdc++.h>
+
+1525211721 source:c:\users\salma\desktop\salma\demineurjeu\src\plateau.cpp
+	<fstream>
+	"plateau.h"
+	"Case.h"
+	<bits/stdc++.h>
+
+1524656454 c:\users\salma\desktop\salma\demineurjeu\include\plateau.h
+	"Case.h"
+	<bits/stdc++.h>
+
